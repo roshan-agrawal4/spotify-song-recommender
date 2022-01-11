@@ -1,6 +1,6 @@
 # Spotify Song Recommender
 
-A simple app the recommends three songs based on a given song (title + artist)
+A simple app the recommends three songs based on a given song (title + artist). 
 Web-app can be found here- https://knotty-amethyst-surgeon.glitch.me/
 
 

@@ -1,6 +1,6 @@
 # Spotify Song Recommender
 
-A simple web app the recommends 5 new songs based on 3 artist you like. 
+A simple web app that recommends 5 new songs based on 3 artist you like. 
 Web-app can be found here- https://knotty-amethyst-surgeon.glitch.me/
 Made using Spotify API, Node.js, Express
 
